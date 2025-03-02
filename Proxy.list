@@ -61,7 +61,6 @@ DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,platformio.org
-DOMAIN-SUFFIX,platformio.org:443
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
