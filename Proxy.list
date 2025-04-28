@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,makerworld.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steam.tv
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
